@@ -36,7 +36,7 @@ global.api = (name, path = "/", query = {}, apikeyqueryname) =>
     : "");
     
 
-    if (BOT_TOKEN == 'YOUR_TELEGRAM_BOT_TOKEN') {
+    if (BOT_TOKEN == '7798008427:AAG0MVYk_RVjTDnTmVkYrKVN88B8e_UCZ3U') {
       return console.log(LANGUAGE_IND.noToken)
     }
 
